@@ -1,0 +1,46 @@
+.aalo h1{
+font-size: 77px;
+color: turquoise;
+background: blue;	}
+
+.rate h4{
+	
+	
+}
+.rate h5{
+color: chartreuse	
+	
+}
+.rate p{
+	
+	color: #ffffff;
+text-align: justify;
+}
+.topic h2{
+	color:#3385FF;
+}
+.best p{color:#000000;
+text-align: justify;
+font-size: large;
+
+font-family: bold;}
+
+.video{
+
+}
+.imga{
+	margin-left:5px;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
